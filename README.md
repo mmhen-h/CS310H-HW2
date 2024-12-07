@@ -1,6 +1,6 @@
 # CS310H-HW2
 Submission for Aidan Sim and Melia Henrichsen
-# HW2 - Gameplay Walkthrough: https://youtu.be/AdjJQxyOUP0
+# HW2 - Gameplay Walkthrough: https://youtu.be/TaFMaXv9O9w
 # HW2 - Blueprint Walkthrough: 
 
 # Aidan:
