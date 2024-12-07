@@ -15,7 +15,6 @@ Submission for Aidan Sim and Melia Henrichsen
 - Create new VR project
 - Created targets that include a variable to keep track of the number of times they've been hit. Upon first hit, change the color to a custom material. When hit for the second time, destroy the target
 - Win level that includes static meshes/architecture
-- Extra Credit Item: Created a VR menu scene
 
 # Resources Used Beyond Class for HW1:
 -	Youtube videos
