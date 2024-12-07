@@ -9,6 +9,7 @@ Submission for Aidan Sim and Melia Henrichsen
 - Added 3 grab interactables
 - Modify pistol blueprint to keep track of ammo
 - Add delayed reload function to pistol
+- Create unlockable "no-teleport" area
 
 # Melia: 
 - Create new VR project
