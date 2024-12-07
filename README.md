@@ -2,6 +2,7 @@
 Submission for Aidan Sim and Melia Henrichsen
 # HW2 - Gameplay Walkthrough: https://youtu.be/TaFMaXv9O9w
 # HW2 - Blueprint Walkthrough: https://youtu.be/NvddlM5eMvo
+# Repository Link: https://github.com/mmhen-h/CS310H-HW2/tree/main
 
 # Aidan:
 - Main Level along with static meshes/architecture
